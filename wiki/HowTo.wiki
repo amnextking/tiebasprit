@@ -1,8 +1,26 @@
 #labels Featured
-conf_tieba.txt
+*注意，由于百度的网页采用了`GB2312`字符编码，所以所有配置文件最后一定要保存为`GB2312`字符编码格式(linux下默认是`UTF-8`)*
+
+
+
+`conf_tieba.txt`
 
 配置文件里面有两个参数
-`username=example_username`
+{{{
+username=example_username
 password=example_password
-
+}}}
 设置您可以删贴的帐号和密码
+
+
+
+`conf_tieba_list.txt`
+
+配置文件里面设定您要监控的贴吧的名称
+一行设置一个贴吧
+
+
+`conf_black_list.txt`
+
+配置文件设置被您列入黑名单的关键词
+每个关键词占用一行
