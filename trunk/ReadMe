@@ -1,6 +1,6 @@
 #########################################################
 #	baidu tieba spirt				#
-#	version 0.1.1 yellow cat			#
+#	version 0.1.2 white dog			#
 #							#
 #	code by						#
 #	== Fang Yunlin ==				#
@@ -36,3 +36,18 @@ config.txt
 密码
 要监控的贴吧名称
 注意！因为百度贴吧采用GB2312字符集。所以一定要用gb2312编码保存，每次对配置修改之后，一定要重新用gb2312编码进行保存！
+
+
+
+
+===========================================
+贴吧守护精灵 version 0.1.2 white dog
+
+1.修正了只能检测一个贴吧的功能，通过tieba_list.conf来设定待检测的贴吧
+2.修改配置文件的格局
+说明如下：
+conf_tieba.txt => 登录用户帐号密码配置文件
+conf_tieba_list.txt => 带检测贴吧配置文件
+conf_black_title.txt => 黑名单列表
+
+
