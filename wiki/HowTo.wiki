@@ -1,0 +1,10 @@
+#labels Featured
+conf_tieba.txt
+
+配置文件里面有两个参数
+{{{
+username=example_username
+password=example_password
+}}}
+设置您可以删贴的帐号和密码
+
