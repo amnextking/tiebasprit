@@ -1,0 +1,4 @@
+username=YOUR_BAIDU_ID
+password=YOUR_PASSWORD
+tiebaname=TIEBA_NAME
+
