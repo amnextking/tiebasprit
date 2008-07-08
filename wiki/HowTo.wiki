@@ -1,4 +1,4 @@
-#labels Featured
+#labels Featured,Phase-Deploy
 *注意，由于百度的网页采用了`GB2312`字符编码，所以所有配置文件最后一定要保存为`GB2312`字符编码格式(linux下默认是`UTF-8`)*
 
 
