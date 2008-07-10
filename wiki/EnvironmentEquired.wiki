@@ -1,6 +1,10 @@
 #labels Featured
-linux + curl + awk + grep
-freebsd(or other bsd) + curl + awk + grep
-mac osx + curl + awk + grep
-solaris + curl + awk + grep
-windows + cygwin + curl + awk + grep
+`linux + curl + awk + grep`
+
+`freebsd(or other bsd) + curl + awk + grep`
+
+`mac osx + curl + awk + grep`
+
+`solaris + curl + awk + grep`
+
+`windows + cygwin + curl + awk + grep`
