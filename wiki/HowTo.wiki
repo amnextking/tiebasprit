@@ -1,35 +1,7 @@
 #labels Featured,Phase-Deploy
-{{{#########################################################
-
-#	baidu tiebaspirt				#
-
-#	version 0.3.1 thank8pm				#
-
-#							#
-
-#	coding by					#
-
-#	== Fang Yunlin ==				#
-
-#							#
-
-#	mail: cst05001@gmail.com			#
-
-#	Google Talk: cst05001@gmail.com			#
-
-#	MSN: cst05001@hotmail.com			#
-
-#							#
-
-#	Aug 10, 2008					#
-
-#########################################################
+{{{
 贴吧守护精灵 version 0.3.1 thank8pm
 
-
-因为是百度一些贴吧的吧主，很烦那些发广告的，而且最近又没空管理，所以打算写一个监控脚本帮我删贴。
-
-这次采用的是python。
 
 
 
